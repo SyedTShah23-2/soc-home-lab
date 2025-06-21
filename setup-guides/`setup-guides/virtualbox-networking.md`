@@ -1,0 +1,4 @@
+# VirtualBox Networking
+
+- Use 'Bridged Adapter' to allow your VMs to communicate on the same network as your host
+- Use 'Internal Network' to isolate lab traffic
